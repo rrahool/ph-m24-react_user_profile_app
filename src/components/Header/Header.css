@@ -1,0 +1,16 @@
+.header nav{
+    background-color: crimson;
+    line-height: 60px;
+    font-size: 25px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: #26A9E2;
+    border-radius: 10px;
+}
